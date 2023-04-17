@@ -2,16 +2,18 @@
 
 ## DNS > Record (CNAME Setup)
 
-![](./1.CNAME DNS.png)
+![](./1.CNAMEDNS.png)
 
 
 If you want to host a website name ```abc.jjonflare.cloud``` you need to create a partial Zone suffix in your authoritative DNS provider.
+
+![](./2.partialdns.png)
 
 It will look like ```abc.jjonflare.cloud.cdn.cloudflare.net```
 
 **Example on Godaddy DNS**
 
-![](./2.partialdns.png)
+
 ![](./3.GodaddyDNS.png)
 
 
