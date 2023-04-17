@@ -23,7 +23,7 @@ Next create CNAME record in your DNS provider for DCV delegation
 
 **Example on Godaddy DNS**
 
-_acme-challenge.abc abc.jjonflare.cloud.c43c00fbad46a7b5.dcv.cloudflare.com.
+_acme-challenge.abc abc.jjonflare.cloud.c43c00fXXXXXXX.dcv.cloudflare.com.
 
 ![](./4.DCV.png)
 
